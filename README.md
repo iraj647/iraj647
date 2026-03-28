@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**iraj647/iraj647** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ایرج خیری زاد
 
-Here are some ideas to get you started:
+من دارای دکتری مهندسی برق هستم و در حال حاضر تمرکز اصلی من بر یادگیری و توسعه کاربردهای هوش مصنوعی در مسائل واقعی است.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 حوزه‌های مورد علاقه
+- یادگیری ماشین (Machine Learning)
+- یادگیری تقویتی (Reinforcement Learning)
+- کاربرد هوش مصنوعی در صنایع غذایی (به‌ویژه گاوداری و مرغداری)
+
+## 🚀 اهداف
+- توسعه پروژه‌های عملی در حوزه هوش مصنوعی
+- استفاده از AI برای حل مسائل صنایع سنتی
+- یادگیری عمیق از طریق پروژه‌های واقعی
+
+## 📌 برنامه فعلی
+در حال مطالعه و توسعه ایده‌هایی برای استفاده از هوش مصنوعی در:
+- بهبود سلامت و مدیریت دام
+- تحلیل رفتار در مرغداری‌ها
+- بهینه‌سازی مصرف منابع
+
+## 🌐 ارتباط با من
+- لینکدین: [لینک خود را اینجا قرار دهید]
+
+---
+
+Iraj Kheirizad (ایرج خیری زاد)
